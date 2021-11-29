@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.4] 2021-11-29
+### Fixes
+
+- `Sidebar.html` - Remove dead links
+
 ## [1.0.3] 2021-11-29
 ### Fixes
 
