@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.3] 2021-11-29
+### Fixes
+
+- Fix routing - append `.html` to all pages
+
 ## [1.0.2] 2021-11-28
 ### Improvements & Fixes
 
